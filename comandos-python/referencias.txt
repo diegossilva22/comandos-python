@@ -1,0 +1,6 @@
+Link de referencias das informações contidas no arquivo 
+comandos.md que serviu de base para essa prática das aulas de
+git e github.
+
+Segue o link:
+https://mundodevops.com/blog/comandos-python/
