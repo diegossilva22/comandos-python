@@ -2,5 +2,6 @@ Link de referencias das informações contidas no arquivo
 comandos.md que serviu de base para essa prática das aulas de
 git e github.
 
-Segue o link:
+Segue os links:
 https://mundodevops.com/blog/comandos-python/
+https://harve.com.br/blog/programacao-python-blog/python-para-que-serve-top-5-utilidades/
